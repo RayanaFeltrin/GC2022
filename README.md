@@ -1,4 +1,4 @@
-# GC2022_
+# GC2022
 
 Teste de stage.
 
